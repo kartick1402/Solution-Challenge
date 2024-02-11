@@ -49,9 +49,7 @@ if (isset($_SESSION["user_id"])) {
             <a class="navbar-brand">LGBTQ COMMUNITY</a>
             <div>
     </div>
-            <form class="d-flex" role="search">
-              <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-              <button class="btn btn-outline-success" type="submit">Search</button>
+    <p><a href="logout.php"><button id="buggi" class="btn btn-outline-success" type="submit">Log out</button></a></p>
             </form>
           </div>
       </nav>
@@ -62,7 +60,7 @@ if (isset($_SESSION["user_id"])) {
         
         <h1>Hello <?= htmlspecialchars($user["Name"]) ?></h1>
         
-        <p><a href="logout.php"><button id="buggi" class="btn btn-outline-success" type="submit">Log out</button></a></p>
+        
         
     <?php else: ?>
         
@@ -85,7 +83,7 @@ if (isset($_SESSION["user_id"])) {
     
                             </h5>
                             <p class="pe-3 mb-5">
-                                Different job roles  available in different domains
+                                Different Job roles available in different domains
                             </p>
                             <a href="./inedx.html" target="_blank"><button type="button" class="btn btn-success">Explore</button></a>
                             <div class="  d-flex justify-content-center align-items-center ">
@@ -98,12 +96,12 @@ if (isset($_SESSION["user_id"])) {
                     </div>
     
                     <div class="col-xxl-4 col-lg-4 col-12  ">
-                        <div class=" card-box rounded-2 p-5 text-center shadow">
+                        <div class=" card-box rounded-2 p-5 text-center">
                             <img alt="" class="img-fluid" src="img/healthcare.png" width="200px">
     
-                            <h5 class="my-3 fw-normal"> Explore healthcare benefits  </h5>
+                            <h5 class="my-3 fw-normal"> Explore Healthcare Benefits  </h5>
                             <p class="pe-3 mb-5">
-                                different healthcare facility available from the best professionals of healthcare 
+                                Different Healthcare facility available from the best professionals 
                             </p>
                             <a href="./index2.html" target="_blank"><button type="button" class="btn btn-success">Explore</button></a>
                             <div class="  d-flex justify-content-center align-items-center ">
