@@ -32,10 +32,10 @@ they can freely ask there anything without any fear or hesitation.
 -> A separate option for Job Opportunities will be made where they will be given information regarding job opportunities in 
 particular field. 
 
--> Dealing with any abuse, don’t worry a helpline number along with live chat support will be provided.
+-> Dealing with any medical issues or need guidance, don’t worry a medical helpline number along with live chat support will be provided.
 
--> Having any specific queries don’t worry the counsellors of the particular organization are there for you. The website will 
-connect you directly via chat or call with them so that you never feel alone.
+-> Having any specific queries don’t worry the counsellors or individuals are there for you. The website will 
+connect you directly via chat with them so that you never feel alone.
 
 ### HOW OUR SOLUTION IS UNIQUE
 
