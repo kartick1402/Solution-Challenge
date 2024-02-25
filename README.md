@@ -48,3 +48,11 @@ of others.
 Further, the biggest note of our project is that it motivates the people of our LGBTQ Community in a positive manner, and 
 make them believe that they are same as other people. It will help them to understand what their rights are and make them 
 understand that they have as equal opportunity in each field as other individuals
+
+### HOW TO USE
+
+#### 1. Download all files directly as in the same manner.
+#### 2. Install Xampp server and run Apache Server to run the website locally. Create a database named login_db in the PHPMyAdmin Mysql database and create a table named user. Make 4 columns in it namely, "id" "name","email" and "password_hash" with specifications as integer:128:primarykey, varchar:255, varchar:255:uniquekey, varchar:255 respectively.
+#### 2. Run the index.html file it is the Homepage of the website.
+#### 3. All pages are linked to it and website will be live locally.
+#### 4. The website is hosted and the link to the Website is provided in the Youtube Video(not here for the sake of privacy).
